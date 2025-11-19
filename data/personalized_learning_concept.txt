@@ -1,0 +1,1 @@
+Personalized learning refers to adapting the content, speed, and learning style to each student. Immverse AI uses AI-driven profiling, learning analytics, and recommendation algorithms to provide a customized experience. Based on user goals, skills, and performance, the system suggests courses, quizzes, practice tasks, and learning paths.

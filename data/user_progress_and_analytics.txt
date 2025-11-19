@@ -1,0 +1,7 @@
+Immverse AI tracks user progress through modules, quizzes, and assignments. Key analytics include: 
+- Completion percentage 
+- Strength & weakness areas 
+- Recommended next steps 
+- Time spent per topic 
+- Performance trend over time
+These insights are used to personalize future content and avatar guidance.

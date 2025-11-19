@@ -1,0 +1,7 @@
+Immverse AI provides customized learning paths such as:
+- AI Beginner Track
+- AI Professional Track
+- IKS Foundations Path
+- Entrepreneurship Fast-Track
+- Ethical AI & Society
+Each learning path includes videos, readings, practical exercises, and checkpoint quizzes.

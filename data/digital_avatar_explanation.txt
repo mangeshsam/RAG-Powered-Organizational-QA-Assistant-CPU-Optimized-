@@ -1,0 +1,1 @@
+Immverse AI uses digital avatars to deliver personalized mentorship. Avatars interact with users using natural language, provide encouragement, answer questions, and guide learning. These avatars are powered by RAG-enabled LLMs combined with user performance data and course content. Avatars help students stay motivated and on track.

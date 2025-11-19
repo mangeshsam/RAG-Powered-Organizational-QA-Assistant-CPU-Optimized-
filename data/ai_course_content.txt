@@ -1,0 +1,9 @@
+The AI curriculum includes: 
+1. Introduction to Artificial Intelligence 
+2. Machine Learning Algorithms
+3. Deep Learning with Neural Networks
+4. Natural Language Processing 
+5. Large Language Models and Transformers 
+6. Generative AI and RAG systems 
+7. AI Ethics and Responsible AI
+The course includes quizzes, hands-on projects, and guided mentorship.

@@ -1,0 +1,8 @@
+The RAG workflow in Immverse AI includes:
+1. Content ingestion and text extraction
+2. Chunking into meaningful segments
+3. Embedding generation using sentence transformers
+4. Storing embeddings in a vector database such as FAISS
+5. Retrieving relevant chunks based on user query
+6. Passing retrieved chunks to the LLM for answer generation
+This improves accuracy and reduces hallucination.

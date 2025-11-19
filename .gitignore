@@ -1,0 +1,14 @@
+# Ignore model files
+models/
+*.gguf
+
+# Ignore embeddings and FAISS index
+embeddings/
+index/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment settings
+.env
