@@ -1,4 +1,5 @@
-#  **README.md — CPU-Based RAG LLM Inference Pipeline (GPT4All + FAISS + Streamlit GUI)**
+#  **README.md — RAG-Powered Organizational QA Assistant (CPU-Optimized)
+CPU-Based RAG LLM Inference Pipeline (GPT4All + FAISS + Streamlit GUI)**
 
 ---
 
